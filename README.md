@@ -24,7 +24,7 @@ PublicDrive is a secure file management application that allows users to upload,
 - Storage: Server-based file system for managing files
 ## Screenshots
 
-![Image1]("./image/image1")
+![Image1]("./image/image1.png")
 
 
 ## 🔗 Group Members 
