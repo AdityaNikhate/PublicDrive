@@ -1,5 +1,5 @@
 
-# PublicDrive [As Part of Applied Artificial Intelligence Group CDAC ACTS Pune]
+# PublicDrive – Developed as Part of Applied Artificial Intelligence Group, CDAC ACTS Pune
 
 ## Overview
 PublicDrive is a secure file management application that allows users to upload, share, edit, and download files. It uses JWT authentication with Spring Boot to ensure secure access and implements role-based permissions for controlled file management.
